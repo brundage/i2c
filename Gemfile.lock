@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    i2c (0.4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  i2c!
+
+BUNDLED WITH
+   1.13.6
